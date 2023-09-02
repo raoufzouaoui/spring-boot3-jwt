@@ -35,6 +35,12 @@ The application will start and be accessible at http://localhost:8080.
 
 ## Endpoints
 
+/products/welcome (GET): An unsecured endpoint for testing purposes.
+
+/products/new (POST): Register a new user.
+
+/products/authenticate (POST): Authenticate and obtain a JWT token.
+
 /products/all (GET): Secure endpoint accessible to users with the ROLE_ADMIN authority. Retrieve all products.
 
 /products/{id} (GET): Secure endpoint accessible to users with the ROLE_USER authority. Retrieve a specific product by its ID.

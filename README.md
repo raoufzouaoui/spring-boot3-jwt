@@ -2,7 +2,7 @@
 This is a Spring Boot project that demonstrates JWT (JSON Web Token) authentication and authorization. It includes user registration, authentication, and secure endpoints for managing products. Below is the README for this project:
 
 ## Table of Contents
-#### Project Description
+###### Project Description
 ### Prerequisites
 ### Installation
 ### Usage
